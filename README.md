@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Yatharth 👋<br><br>🎓 Computer Science student passionate about Cloud and Cybersecurity.<br>☁️ Currently building strong foundations in networking, Linux, and cloud technologies.<br>🔐 My goal is to become a Cloud Security Engineer before graduation.<br><br>I believe in learning by doing, so I continuously practice hands-on labs, build projects, and document my journey publicly.<br><br>🚀 Current Focus:<br>- Networking fundamentals<br>- Linux<br>- Cloud Security<br>- Automation & scripting (coming soon)<br><br>📌 This GitHub is my proof of work and growth.<br><br>Let's connect and build!<br>
+Hi, I'm Yatharth 👋<br><br>🎓 Electronics and communication student passionate about Cloud and Cybersecurity.<br>☁️ Currently building strong foundations in networking, Linux, and cloud technologies.<br>🔐 My goal is to become a Cloud Security Engineer before graduation.<br><br>I believe in learning by doing, so I continuously practice hands-on labs, build projects, and document my journey publicly.<br><br>🚀 Current Focus:<br>- Networking fundamentals<br>- Linux<br>- Cloud Security<br>- Automation & scripting (coming soon)<br><br>📌 This GitHub is my proof of work and growth.<br><br>Let's connect and build!<br>
 
 
 ## 🌐 Socials:
